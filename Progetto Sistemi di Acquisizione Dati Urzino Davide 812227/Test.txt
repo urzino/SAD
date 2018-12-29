@@ -1,0 +1,5 @@
+Accensione: ore 10:50:43 del 31/01/2016
+ore 10:50:43 del 31/01/2016 conteggio pezzi attuale: 0
+ore 10:51:43 del 31/01/2016 conteggio pezzi attuale: 5
+ore 10:52:43 del 31/01/2016 conteggio pezzi attuale: 103
+ore 10:53:43 del 31/01/2016 conteggio pezzi attuale: 187
